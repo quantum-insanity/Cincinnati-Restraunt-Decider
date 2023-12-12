@@ -1,1 +1,0 @@
-This website is not complete yet, nor may it ever be complete. at the moment only the burger part of the website has real information, that doesnt mean that I am done however, as I am in the process of adding pizza next.
