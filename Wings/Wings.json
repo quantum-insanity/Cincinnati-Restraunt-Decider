@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Knockback Nats",
+        "Address": " 10 W. Seventh St., Downtown",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3096.1180097381907!2d-84.51675642471079!3d39.10378337168063!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b1572ba6cafb%3A0x1848d98837ab7d51!2sKnockback%20Nats!5e0!3m2!1sen!2sus!4v1713596175146!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "Weekday: 2pm - 2am. Weekend: 12pm-2am",
+        "Rating": "4.5/5 Stars"
+    },
+    {
+        "Name": "Northside Yacht Club",
+        "Address": "4231 Spring Grove Ave., Northside",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60958.85744362118!2d-84.58569837342392!3d39.160365456117596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b48562282b61%3A0x3ccf74c73260776f!2sNorthside%20Yacht%20Club!5e0!3m2!1sen!2sus!4v1713596241022!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "Weekday: 4pm - 2am. Weekend: 11:30am-2:30am",
+        "Rating": "4.6/5 Stars"
+    },
+    {
+        "Name": "The Hi-Mark Bar",
+        "Address": "3229 Riverside Drive, East End",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3095.4734250390493!2d-84.44641682470989!3d39.11845707167778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b20ed5e6b5f3%3A0x57f7c598df249ab0!2sThe%20Hi-Mark!5e0!3m2!1sen!2sus!4v1713596775001!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am-12am",
+        "Rating": "4.6/5 Stars"
+    },
+    {
+        "Name": "Mt. Carmel Brewing",
+        "Address": "4362 Mt. Carmel Tobasco Road, Mt. Carmel",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3096.56608193352!2d-84.3027039247114!3d39.09358047168285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841a988d5cf113d%3A0x919ecbb3136db4f!2sMt.%20Carmel%20Brewing%20Company!5e0!3m2!1sen!2sus!4v1713596931994!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am-11pm, Closed on Mondays",
+        "Rating": "4.6/5 Stars"
+    },
+    {
+        "Name": "Oakley Pub & Grill",
+        "Address": "3924 Isabella Ave., Oakley",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.027121011665!2d-84.43453362470802!3d39.151364771670934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841ad7958e1e753%3A0xb2197bcd6371c2d2!2sOakley%20Pub%20%26%20Grill!5e0!3m2!1sen!2sus!4v1713597145350!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am-10pm, Closed on Mondays",
+        "Rating":"4.4/5 Stars"
+    }
+]
+        

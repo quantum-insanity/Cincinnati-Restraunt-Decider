@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "The Melting Pot Of Cincinnati (Fondue)",
+        "Address": "11023 Montgomery Rd, Cincinnati, OH 45249",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3089.0603851435317!2d-84.33868232470154!3d39.26419647164804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8840541e52779677%3A0x4861bb4ef57ae5aa!2sThe%20Melting%20Pot!5e0!3m2!1sen!2sus!4v1713597571282!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "Weekday: 5pm - 10pm. Weekend: 12pm-10pm",
+        "Rating": "4.5/5 Stars"
+    },
+    {
+        "Name": "Subito (Italian)",
+        "Address": "311 Pike St, Cincinnati, OH 45202",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3096.229617482475!2d-84.50813951903123!3d39.101242198663265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b1b6ec80d845%3A0xaa4f31e2fcfbf1bc!2sSubito!5e0!3m2!1sen!2sus!4v1713598033048!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "6:30AM-2PM, 5-10PM",
+        "Rating": "4.4/5 Stars"
+    },
+    {
+        "Name": "The Precinct By Jeff Ruby (Steakhouse)",
+        "Address": "311 Delta Ave, Cincinnati, OH 45226",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3096.229617482475!2d-84.50813951903123!3d39.101242198663265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b1b6ec80d845%3A0xaa4f31e2fcfbf1bc!2sSubito!5e0!3m2!1sen!2sus!4v1713598033048!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "Weekday: 5pm - 10pm. Weekend: 4pm-11pm",
+        "Rating": "4.8/5 Stars"
+    },
+    {
+        "Name": "Boca (American)",
+        "Address": "114 E 6th St, Cincinnati, OH 45202",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6192.310245245982!2d-84.51381992471087!3d39.10293837168082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b15a0ea2899f%3A0x15280d497b5df514!2sBoca!5e0!3m2!1sen!2sus!4v1713599056651!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "5pm-10pm",
+        "Rating": "4.7/5 Stars"
+    },
+    {
+        "Name": "Nicola's (Italian)",
+        "Address": "1420 Sycamore St, Cincinnati, OH 45202",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.872660862141!2d-84.51854262470943!3d39.14504277167293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b3ac57ad735b%3A0x67d9e5f8eb74ba1e!2sIstanbul%20Cafe!5e0!3m2!1sen!2sus!4v1713601420829!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "5pm-10pm",
+        "Rating": "4.6/5 Stars"
+    },
+    {
+        "Name": "Tony's of Cincinnati (Steakhouse)",
+        "Address": "12110 Montgomery Rd, Cincinnati, OH 45249",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3087.9482218064386!2d-84.30212542470011!3d39.28942477164291!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8840564370134e45%3A0xd345173d6fbc19c2!2sTony&#39;s%20of%20Cincinnati!5e0!3m2!1sen!2sus!4v1713599792013!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "4:30pm-10pm",
+        "Rating": "4.7/5 Stars"
+    }
+]
