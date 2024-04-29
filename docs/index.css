@@ -12,7 +12,7 @@
     text-align: center;
     color: white;
     font-family: CourierTahoma, 'Arial Narrow', Arial, sans-serif;
-    background-color: Tomato">;
+    background-color: Blue;
   }
   
   /* Style the top navigation bar */
@@ -21,16 +21,20 @@
     background-color:  #443950;
   }
   
-  /* Style the topnav links */
-  #topnav a {
-    text-align: center;
-    float: inline-start;
-    display: block;
-    color: #f2f2f2;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-family: Tahoma, 'Arial Narrow', Arial, sans-serif;
-  }
+ /* Style the topnav container */
+#topnav {
+  display: flex;
+  justify-content: center; /* Centers items horizontally */
+  align-items: center; /* Centers items vertically */
+}
+
+/* Style the topnav links */
+#topnav a {
+  color: #f2f2f2;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Tahoma, 'Arial Narrow', Arial, sans-serif;
+}
   
   /* Change color on hover */
   #topnav a:hover {
@@ -43,7 +47,7 @@
     padding: 15px;
     font-family: Tahoma, Helvetica, sans-serif;
     text-align: center;
-  
+
   }
   
   /* Clear floats after the columns */
