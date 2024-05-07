@@ -100,8 +100,8 @@
     {
         "Name": "Trophy Pizza",
         "Address": "10325 Reading Rd # 102, Cincinnati, OH 45241",
-        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb\=!1m18\!1m12\!1m3\!1d98866.80304117483\!2d-84.56443668359374\!3d39.25223250000001\!2m3\!1f0\!2f0\!3f0\!3m2\!1i1024\!2i768\!4f13.1\!3m3\!1m2\!1s0x8840534629d3289b\%3A0x186ef469d9931403\!2sTrophy\%20Pizza\!5e0\!3m2\!1sen\!2sus\!4v1715054213881\!5m2\!1sen\!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d98866.80304117483!2d-84.56443668359374!3d39.25223250000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8840534629d3289b%3A0x186ef469d9931403!2sTrophy%20Pizza!5e0!3m2!1sen!2sus!4v1715054213881!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
         "Hours": "11am - 8pm",
         "Rating": "4.7 Stars"
-    },
+    }
 ]
