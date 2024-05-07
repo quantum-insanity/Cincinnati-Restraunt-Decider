@@ -1,8 +1,107 @@
 [
     {
-        "Name": "Random Pizza Place",
-        "Address": "East 12th Street",
-        "Hours": "Weekday: 10:45am - 9:30pm. Weekend:10am-10pm"
-        
-    }
+        "Name": "A Tavola",
+        "Address": "7022 Miami Ave, Madeira, OH 45243",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3092.373049186774!2d-84.36554152470595!3d39.18897137166329!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884053523ac2eebd%3A0x13b3d408a3a01df9!2sA%20Tavola%20Bar%20%2B%20Trattoria!5e0!3m2!1sen!2sus!4v1715051785871!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" al>",
+        "Hours": "11am - 9pm",
+        "Rating": "4.5 Stars"
+    },
+    {
+        "Name": "GoodFellas Pizzeria",
+        "Address": "1211 Main St, Cincinnati, OH 45202",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d36321.98705335909!2d-84.55646293767165!3d39.10397275270411!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b3fd524de49b%3A0xfb10c75d366e4b46!2sGoodfellas%20Pizzeria%20-%20OTR!5e0!3m2!1sen!2sus!4v1715052139551!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am - 12am",
+        "Rating": "4.5 Stars"
+    },
+    {
+        "Name": "Fireside Pizza",
+        "Address": "773 E McMillan St, Cincinnati, OH 45206",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d36321.98705335909!2d-84.55646293767165!3d39.10397275270411!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b075fb30992b%3A0x2c9d0b9dad5cf1d3!2sFireside%20Pizza!5e0!3m2!1sen!2sus!4v1715052337373!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am - 9pm",
+        "Rating": "4.5 Stars"
+    },
+    {
+        "Name": "Adriatico's",
+        "Address": "113 W McMillan St, Cincinnati, OH 45219",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d36321.98705335909!2d-84.55646293767165!3d39.10397275270411!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b3f37aeb49b9%3A0x92355a338aabf06e!2sAdriatico&#39;s!5e0!3m2!1sen!2sus!4v1715052438596!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am - 11pm",
+        "Rating": "4.5 Stars"
+    },
+    {
+        "Name": "Rusconi Bar & Kitchen",
+        "Address": "126 W 6th St, Cincinnati, OH 45202",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42861.170498195126!2d-84.55238376241068!3d39.106943379699715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b1cd631b4569%3A0x1f159e6c86244552!2sRusconi%20Bar%20%26%20Kitchen!5e0!3m2!1sen!2sus!4v1715052597239!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "2pm - 12am",
+        "Rating": "4.1 Stars"
+    },
+    {
+        "Name": "TAGLIO Columbia Tusculum",
+        "Address": "3531 Columbia Pkwy, Cincinnati, OH 45226",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49529.45295756414!2d-84.49879915660087!3d39.115785200000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841adf7e034873f%3A0x9e15a88f3d8341b0!2sTAGLIO%20Columbia%20Tusculum!5e0!3m2!1sen!2sus!4v1715052763908!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am - 9pm",
+        "Rating": "4.4 Stars"
+    },
+    {
+        "Name": "Queen City Pizza",
+        "Address": "2580 Queen City Ave, Cincinnati, OH 45238",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49518.60255609381!2d-84.65763534179689!3d39.13121889999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b5eae20b263f%3A0x896cb7e9af3c1ed8!2sQueen%20City%20Pizza!5e0!3m2!1sen!2sus!4v1715052962948!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am - 10pm",
+        "Rating": "4.1 Stars"
+    },
+    {
+        "Name": "Werkhaus Pizza",
+        "Address": "3637 Werk Rd, Cincinnati, OH 45248",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49511.39940469907!2d-84.66585793046876!3d39.14146190000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841ca69a14489b5%3A0xb5f4d50954708c8e!2sWerkhaus%20Pizza!5e0!3m2!1sen!2sus!4v1715053081736!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am - 9pm",
+        "Rating": "4.5 Stars"
+    },
+    {
+        "Name": "Saint Francis Apizza",
+        "Address": "3392 Erie Ave, Cincinnati, OH 45208",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49511.359878991796!2d-84.49085374179685!3d39.1415181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841ade1542c145f%3A0x654ecef06bf20f01!2sSaint%20Francis%20Apizza!5e0!3m2!1sen!2sus!4v1715053227403!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "4 - 8pm",
+        "Rating": "4.8 Stars"
+    },
+    {
+        "Name": "Deweys Pizza",
+        "Address": "3014 Madison Rd, Cincinnati, OH 45209",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49511.359878991796!2d-84.49085374179685!3d39.1415181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841ad7bfe191d23%3A0xa74b2e9335361e28!2sDewey&#39;s%20Pizza!5e0!3m2!1sen!2sus!4v1715053345814!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am - 10pm",
+        "Rating": "4.7 Stars"
+    },
+    {
+        "Name": "Toppers Pizza",
+        "Address": "345 Calhoun St, Cincinnati, OH 45219",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49520.53608981448!2d-84.59031584179684!3d39.12846899999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b3f53d567a77%3A0x75633999c2818ffc!2sToppers%20Pizza!5e0!3m2!1sen!2sus!4v1715053524159!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "10:30am - 10am",
+        "Rating": "4 Stars"
+    },
+    {
+        "Name": "Ramundo's Pizzeria",
+        "Address": "3166 Linwood Ave, Cincinnati, OH 45208",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d80658.30917864166!2d-84.54523514192452!3d39.146551077724396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841ad8dca442a2f%3A0xd9d9dda25bcba92b!2sRamundo%27s%20Pizzeria!5e0!3m2!1sen!2sus!4v1715053643116!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am - 9pm",
+        "Rating": "4.5 Stars"
+    },
+    {
+        "Name": "Trotta's Pizza Drive Thru",
+        "Address": "3501 Werk Rd, Cincinnati, OH 45248",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d99045.17693468723!2d-84.63777028793886!3d39.12554990108029!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841cb9f1dcc1835%3A0x890da1d873c65db3!2sTrotta%27s%20Pizza%20Drive%20Thru!5e0!3m2!1sen!2sus!4v1715053782281!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "9am - 10pm",
+        "Rating": "4.1 Stars"
+    },
+    {
+        "Name": "Lucy Blue Pizza",
+        "Address": "6732 Clough Pike, Cincinnati, OH 45244",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d99083.35610075!2d-84.50883488359375!3d39.09839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841af560e534503%3A0x7b9c9fa66c53e6b6!2sLucy%20Blue%20Pizza!5e0!3m2!1sen!2sus!4v1715053882988!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "4pm - 8pm",
+        "Rating": "4.8 Stars"
+    },
+    {
+        "Name": "Trophy Pizza",
+        "Address": "10325 Reading Rd # 102, Cincinnati, OH 45241",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb\=!1m18\!1m12\!1m3\!1d98866.80304117483\!2d-84.56443668359374\!3d39.25223250000001\!2m3\!1f0\!2f0\!3f0\!3m2\!1i1024\!2i768\!4f13.1\!3m3\!1m2\!1s0x8840534629d3289b\%3A0x186ef469d9931403\!2sTrophy\%20Pizza\!5e0\!3m2\!1sen\!2sus\!4v1715054213881\!5m2\!1sen\!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am - 8pm",
+        "Rating": "4.7 Stars"
+    },
 ]

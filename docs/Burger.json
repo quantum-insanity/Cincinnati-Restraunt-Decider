@@ -47,5 +47,33 @@
         "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3096.358471708324!2d-84.51893302471109!3d39.09830817168183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b14e02d78521%3A0x4d1f95e352ad7e56!2sKitty&#39;s%20Sports%20Grill!5e0!3m2!1sen!2sus!4v1713595001060!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
         "Hours": "Everyday but Monday: 11am - 10pm",
         "Rating": "4.2 Stars"
-    }
+    },
+    {
+        "Name": "The Gas Light Cafe",
+        "Address": "6104 Montgomery Rd, Cincinnati, OH 45213",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d98866.884910159!2d-84.56443693873732!3d39.252174434656155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841ad4e0ec5a337%3A0x82871a0736ae0608!2sThe%20Gas%20Light%20Cafe!5e0!3m2!1sen!2sus!4v1715054522267!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am - 1am",
+        "Rating": "4.6 Stars"
+    },
+    {
+        "Name": "Tavern on the Bend",
+        "Address": "5471 N Bend Rd, Cincinnati, OH 45247",
+        "Maps": "<iframe src=\\\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d98866.884910159!2d-84.56443693873732!3d39.252174434656155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841ad4e0ec5a337%3A0x82871a0736ae0608!2sThe%20Gas%20Light%20Cafe!5e0!3m2!1sen!2sus!4v1715054522267!5m2!1sen!2sus\\\" width=\\\"600\\\" height=\\\"450\\\" style=\\\"border:0;\\\" allowfullscreen=\\\"\\\" loading=\\\"lazy\\\" referrerpolicy=\\\"no-referrer-when-downgrade\\\"></iframe>",
+        "Hours": "4pm - 2am Monday through Friday, 11am - 2am Saturday Sunday",
+        "Rating": "4.3 Stars"
+    },
+    {
+        "Name": "Tickle Pickle Restaurant",
+        "Address": "4176 Hamilton Ave, Cincinnati, OH 45223",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d98992.4471783851!2d-84.67978078359371!3d39.16303480000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b49269b9d953%3A0xca123c7ce1d9e76b!2sTickle%20Pickle%20Restaurant!5e0!3m2!1sen!2sus!4v1715054777696!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am - 9pm",
+        "Rating": "4.5 Stars"
+    },
+    {
+        "Name": "Swensons Drive-In",
+        "Address": "3628 Madison Rd, Cincinnati, OH 45209",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d98996.35769281775!2d-84.55854218359369!3d39.1602559!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841ad62cb71b12f%3A0x52972f2879b637af!2sSwensons%20Drive-In!5e0!3m2!1sen!2sus!4v1715054874091!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am - 1am",
+        "Rating": "4.4 Stars"
+    },
 ]

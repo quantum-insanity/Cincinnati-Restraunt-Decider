@@ -15,4 +15,5 @@ fetch("./Pizza.json")
         $( ".column-theme" ).append( `<h3>${randomPizza.Address}</h3>` );
         $( ".column-theme" ).append( `<h3>${randomPizza.Hours}</h3>` );
         $( ".column-theme" ).append( `<h3>${randomPizza.Rating}</h3>` );
+        $(".column-theme").append(randomPizza.Maps);
     });

@@ -33,6 +33,41 @@
         "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.027121011665!2d-84.43453362470802!3d39.151364771670934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841ad7958e1e753%3A0xb2197bcd6371c2d2!2sOakley%20Pub%20%26%20Grill!5e0!3m2!1sen!2sus!4v1713597145350!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
         "Hours": "11am-10pm, Closed on Mondays",
         "Rating":"4.4/5 Stars"
+    },
+    {
+        "Name": "O'Bryon's Bar & Grill",
+        "Address": "1998 Madison Rd, Cincinnati, OH 45208",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.027121011665!2d-84.43453362470802!3d39.151364771670934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841ad7958e1e753%3A0xb2197bcd6371c2d2!2sOakley%20Pub%20%26%20Grill!5e0!3m2!1sen!2sus!4v1713597145350!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am-12am",
+        "Rating":"4.4/5 Stars"
+    },
+    {
+        "Name": "Wild Mike's",
+        "Address": "4498 Harrison Ave, Cincinnati, OH 45211",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d98990.45278124433!2d-84.76979428359377!3d39.164452000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841caf25b100b27%3A0xddff39374b86d732!2sWild%20Mike%27s!5e0!3m2!1sen!2sus!4v1715055410359!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am-9pm",
+        "Rating":"4.4/5 Stars"
+    },
+    {
+        "Name": "The Pony",
+        "Address": "1346 Main St, Cincinnati, OH 45202",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d99086.78861325391!2d-84.59388873818354!3d39.09594740255242!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b3fd2a5a650b%3A0x2192b2e13d3041ff!2sThe%20Pony!5e0!3m2!1sen!2sus!4v1715055532322!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "4pm-11pm",
+        "Rating":"4.5/5 Stars"
+    },
+    {
+        "Name": "Murray's Wings Pub and Grill",
+        "Address": "2169 Queen City Ave, Cincinnati, OH 45214",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d99042.60071859452!2d-84.71299768359377!3d39.12738199999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b5c8b175bce7%3A0xe7f3ac227ffe39b1!2sMurray%27s%20Wings%20Pub%20and%20Grill!5e0!3m2!1sen!2sus!4v1715055640942!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am-11pm",
+        "Rating":"4/5 Stars"
+    },
+    {
+        "Name": "Wings and Rings",
+        "Address": "8377 Winton Rd, Cincinnati, OH 45231",
+        "Maps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d98915.58015406823!2d-84.66470927041017!3d39.21762469948249!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88404c9c6bfc933f%3A0x923ad15809a08de7!2sWings%20and%20Rings!5e0!3m2!1sen!2sus!4v1715055754222!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Hours": "11am-10pm",
+        "Rating":"4.3/5 Stars"
     }
 ]
         
